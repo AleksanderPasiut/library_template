@@ -8,5 +8,5 @@
 
 void library_init()
 {
-    std::cout << "Library hello world!\n";
+    std::cout << "Library says hello world!\n";
 }
